@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="activity_2">Activity2</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="activity_3">Activity3</string>
+    <string name="data_from_activity_3_will_be_displayed_here">Data from Activity 3 will be displayed here</string>
+    <string name="enter_your_surname">Enter your Surname</string>
+    <string name="submit_1">Submit</string>
+    <string name="welcome_to_activity_2">WELCOME TO ACTIVITY 2</string>
+</resources>
